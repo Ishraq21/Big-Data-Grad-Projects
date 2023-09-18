@@ -1,5 +1,5 @@
-# Big-Data-Grad-Projects
-This Repo Contains Some of The Work from My Big Data Analytics Master's Program at SDSU. You can find codes and models for the following projects:
+# BigData-ML-Grad-Projects
+This repo contains some of my graduate degree final projects from the Big Data Analytics Master's program at SDSU. You can find codes and models for the following projects:
 
 <h2>BDA 600 Capstone Project - Forecast and Predict Crypto Trend Using Artificial Neural Network and Sentiment Analysis</h2>
 
