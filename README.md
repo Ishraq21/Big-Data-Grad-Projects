@@ -49,7 +49,6 @@ Preprocessed exploratory data and implemented predictions using a simple linear 
 - Determine their rate of kick success in a game.
 
 <h3>Project Website</h3>
-
 https://sites.google.com/sdsu.edu/thespecials/home
 
 
