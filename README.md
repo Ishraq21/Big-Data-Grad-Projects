@@ -17,7 +17,7 @@ To provide a user-friendly and accurate tool for cryptocurrency investors by uti
 
 https://storymaps.arcgis.com/stories/6a5bd841643c4313b020a51e99dfb7dc
 
-<h2>LING 583 Final Project- 2020 US Election Sentiment Analysis</h2>
+<h2>LING 583 Individual Final Project- 2020 US Election Sentiment Analysis</h2>
 
 This is my individual final project for class Linguistic 583 - Statistical Methods in Text Analysis
 
