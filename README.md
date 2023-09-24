@@ -33,7 +33,7 @@ Pre-process and train my data using multiple different classifiers to predict th
 
 The delivery is a Jupyter Notebook in HTML. Not to mention there is also a summary of the preprocessing methods, models, predictions, limitations, and results at the end of my notebook.
 
-<h2>BD 594 Final Project - NFL: Implementing New Special Team Metrics and Ranking Special Team Players</h2>
+<h2>BDA 594 Final Project - NFL: Implementing New Special Team Metrics and Ranking Special Team Players</h2>
 
 My part of the final group project for BDA 594.
 
