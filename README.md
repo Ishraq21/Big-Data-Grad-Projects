@@ -53,6 +53,8 @@ https://sites.google.com/sdsu.edu/thespecials/home
 
 <h2>BDA 572 Individual Final Project - COVID19 Visualization </h2>
 
+This is my individual final project for class Big Data Analytics 572 Python Scripting for Social Science.
+
 <h3>Project Description</h3>
 
 This is an individual final project which is a visualization of COVID-19 data, specifically focused on California and more detailed insights into Los Angeles County. The data is sourced from the New York Times' COVID-19 dataset, which provides information on cases and deaths across US counties. The visualizations include bar plots, line plots, pie charts, scatter plots on a map, and choropleth maps.
